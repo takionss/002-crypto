@@ -1,5 +1,5 @@
 # 사이트 기본 설정
-title: Smiles Life - 크립토 인사이트
+title: Smiles Life - 가상자산 인사이트
 description: Smiles Life의 비트코인, 이더리움 등 블록체인 글로벌 트랜드
 url: "https://takionss.github.io/002-crypto"
 
@@ -28,22 +28,22 @@ header_pages:
 # [추가된 부분] 언어별 사이트 타이틀 및 설명 설정
 # ----------------------------------------------------------------
 titles:
-  ko: "Smiles Life - 크립토 인사이트"
-  en: "Smiles Life - Crypto Insights"
-  ja: "Smiles Life - クリプトインサイト"
-  zh-TW: "Smiles Life - 加密洞察"
-  es: "Smiles Life - Perspectivas Cripto"
+  ko: "Smiles Life - 가상자산 인사이트"
+  en: "Smiles Life - Virtual Asset Insights"
+  ja: "Smiles Life - 暗号資産インサイト"
+  zh-TW: "Smiles Life - 虚拟资产洞察"
+  es: "Smiles Life - Perspectivas de Activos Virtuales"
 
 descriptions:
   ko: "Smiles Life의 비트코인, 이더리움 등 블록체인 글로벌 트랜드"
   en: "Global blockchain trends including Bitcoin and Ethereum by Smiles Life"
-  ja: "Smiles Lifeのビットコインやイーサリアムなどのブロックチェーンのグローバルトレンド"
+  ja: "Smiles Lifeのビットコイン、イーサリアムなどのブロックチェーン・グローバルトレンド"
   zh-TW: "Smiles Life - 比特币、以太坊等区块链全球趋势"
-  es: "Smiles Life - Tendencias globales de blockchain como Bitcoin y Ethereum"
+  es: "Smiles Life - Tendencias globales de blockchain, incluyendo Bitcoin y Ethereum"
 
 random_post_titles:
   ko: "🎲 이런 글은 어떠세요?"
   en: "How about an article like this?"
-  ja: "こんな記事はいかがですか？"
+  ja: "このような記事はいかがですか？"
   zh-TW: "您觉得这篇文章怎么样？"
-  es: "¿Qué te parece este artículo?"
+  es: "¿Qué te parece un artículo como este?"
