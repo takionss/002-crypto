@@ -2,7 +2,7 @@
 layout: post
 title: "Glosario Esencial de Criptomonedas para Principiantes"
 description: "Una guía completa diseñada para quienes dan sus primeros pasos en el mundo de los activos digitales, explicando los términos fundamentales para entender el mercado desde cero."
-categories: ['호기심 해결', 'es']
+categories: ['why', 'es']
 tags: [Criptomonedas, Blockchain, Bitcoin, Inversión, Glosario_]
 lang: es
 ---
