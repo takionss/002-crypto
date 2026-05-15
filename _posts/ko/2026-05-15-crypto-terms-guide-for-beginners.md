@@ -2,7 +2,7 @@
 layout: post
 title: "코린이를 위한 암호화폐 필수 용어 사전 총정리"
 description: "암호화폐 세계에 첫발을 내디딘 입문자를 위해 반드시 알아야 할 핵심 용어들을 쉽고 완벽하게 정리해 드립니다."
-categories: ['호기심 해결', 'ko']
+categories: ['why', 'ko']
 tags: [암호화폐, 비트코인, 코린이, 가상화폐용어, 블록체인기초]
 lang: ko
 ---
