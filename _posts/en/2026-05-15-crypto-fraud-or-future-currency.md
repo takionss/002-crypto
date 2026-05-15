@@ -2,7 +2,7 @@
 layout: post
 title: "Cryptocurrency: Fraud or the Future of Finance"
 description: "An in-depth exploration of the polarising debate surrounding digital assets, analyzing their potential as a revolutionary monetary system versus the risks of speculative bubbles and financial scams."
-categories: ['호기심 해결', 'en']
+categories: ['why', 'en']
 tags: [Cryptocurrency, Blockchain, DigitalFinance, Fintech2026, Bitcoin, AssetTokenization]
 lang: en
 ---
