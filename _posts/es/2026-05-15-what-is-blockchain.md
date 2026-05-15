@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Qué es exactamente el blockchain?"
-description: "Una introducción clara y sencilla para entender la tecnología de cadena de bloques y cómo está transformando la confianza en el mundo digital."
+title: "Smiles Life - Perspectivas de Activos Virtuales"
+description: "Smiles Life - Tendencias globales de blockchain, incluyendo Bitcoin y Ethereum"
 categories: ['why', 'es']
 tags: [Blockchain, Innovación, Descentralización, Futuro Digital, Seguridad Informática, Transparencia]
 lang: es
