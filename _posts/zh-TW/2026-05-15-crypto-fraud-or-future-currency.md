@@ -2,7 +2,7 @@
 layout: post
 title: "加密货币诈骗陷阱还是金融未来"
 description: "本文探讨了加密货币的双重属性，分析其作为区块链技术革命的潜力与当前市场中存在的投机风险，旨在揭示其在现代金融体系中的真实地位。"
-categories: ['호기심 해결', 'zh-TW']
+categories: ['why', 'zh-TW']
 tags: [加密货币, 区块链, 投资风险, 金融创新, 数字经济]
 lang: zh-TW
 ---
