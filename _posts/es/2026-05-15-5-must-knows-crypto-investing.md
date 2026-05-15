@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "5 cosas fundamentales que debes saber antes de invertir en criptomonedas"
-description: "Una guía esencial para principiantes que detalla la gestión de riesgos, la naturaleza del mercado digital y la importancia de la investigación previa antes de comprometer capital."
+title: "Smiles Life - Perspectivas de Activos Virtuales"
+description: "Smiles Life - Tendencias globales de blockchain, incluyendo Bitcoin y Ethereum"
 categories: ['why', 'es']
 tags: [Criptomonedas, Inversión, Educación Financiera, Blockchain, Gestión de Riesgos]
 lang: es
