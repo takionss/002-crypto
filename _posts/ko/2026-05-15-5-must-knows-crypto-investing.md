@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "암호화폐 투자 전 필수 지식 5가지"
-description: "성공적인 가상자산 투자를 위해 입문자가 반드시 체크해야 할 리스크 관리와 시장 분석의 핵심 요약"
+title: "Smiles Life - 가상자산 인사이트"
+description: "가상자산 인사이트"
 categories: ['why', 'ko']
 tags: [암호화폐투자, 가상자산, 재테크팁, 리스크관리, 비트코인]
 lang: ko
