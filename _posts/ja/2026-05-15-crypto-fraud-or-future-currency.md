@@ -2,7 +2,7 @@
 layout: post
 title: "Cryptocurrency: Fraud or the Future of Finance"
 description: "A final reflection on the 2026 landscape where digital assets transition from speculative 'wild west' projects into a foundational pillar of modern global finance."
-categories: ['호기심 해결', 'ja']
+categories: ['why', 'ja']
 tags: [暗号資産, ブロックチェーン, フィンテック, ビットコイン, 未来の金融]
 lang: ja
 ---
