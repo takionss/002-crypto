@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "블록체인이 도대체 무엇인가요"
-description: "복잡한 기술 용어를 넘어 블록체인의 기본 개념과 데이터 신뢰의 원리를 쉽고 명확하게 설명해 드립니다."
+title: "Smiles Life - 가상자산 인사이트"
+description: "가상자산 인사이트"
 categories: ['why', 'ko']
 tags: [블록체인, 4차산업혁명, 분산원장, 가상자산, 데이터보안, 디지털혁신]
 lang: ko
