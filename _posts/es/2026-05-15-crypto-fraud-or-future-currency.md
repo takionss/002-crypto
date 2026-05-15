@@ -2,7 +2,7 @@
 layout: post
 title: "加密货币诈骗陷阱还是金融未来"
 description: "암호화폐는 사기일까, 미래의 화폐일까?"
-categories: ['호기심 해결', 'es']
+categories: ['why', 'es']
 tags: []
 lang: es
 ---
