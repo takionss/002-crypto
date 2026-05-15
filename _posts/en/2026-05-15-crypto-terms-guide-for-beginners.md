@@ -2,7 +2,7 @@
 layout: post
 title: "The Ultimate Cryptocurrency Glossary for Beginners"
 description: "Master the essential crypto terminology and navigate the complex world of digital assets with confidence through this comprehensive guide designed specifically for newcomers."
-categories: ['호기심 해결', 'en']
+categories: ['why', 'en']
 tags: [Cryptocurrency, Blockchain, Bitcoin, Investing, BeginnerGuide]
 lang: en
 ---
