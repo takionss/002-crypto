@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "在开始加密货币投资前必须了解的 5 件事"
-description: "本指南专为初学者设计，涵盖风险管理、市场波动以及在进入数字资产领域前必须进行的尽职调查，助您稳健开启投资之旅。"
+title: "Smiles Life - 虚拟资产洞察"
+description: "虚拟资产洞察"
 categories: ['why', 'zh-TW']
 tags: [加密货币投资, 风险管理, 区块链技术, 投资策略, 数字化金融]
 lang: zh-TW
