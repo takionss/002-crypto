@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "区块链到底是什么"
-description: "抛开复杂的术语，我们将带您深入浅出地理解区块链的基本概念，以及它如何构建数字时代的信任与安全新标准。"
+title: "Smiles Life - 虚拟资产洞察"
+description: "虚拟资产洞察"
 categories: ['why', 'zh-TW']
 tags: [区块链, 数字化转型, 去中心化, 创新技术, 数字信任]
 lang: zh-TW
