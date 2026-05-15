@@ -2,7 +2,7 @@
 layout: post
 title: "加密货币新手必备术语百科全攻略"
 description: "为刚步入数字资产世界的“币圈新手”量身定制，深入浅出地解析必须掌握的核心术语，助您从零开始读懂市场。"
-categories: ['호기심 해결', 'zh-TW']
+categories: ['why', 'zh-TW']
 tags: [加密货币, 区块链, 比特币, 投资入门, 币圈百科]
 lang: zh-TW
 ---
