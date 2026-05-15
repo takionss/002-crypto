@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "What Exactly Is Blockchain"
-description: "Beyond the complex jargon, we explore the fundamental concepts of blockchain and how it creates a new standard for data trust and security in the digital age."
+title: "Smiles Life - Virtual Asset Insights"
+description: "Virtual Asset Insights"
 categories: ['why', 'en']
 tags: [Blockchain, Technology, Decentralization, Innovation, FutureTech, DigitalTrust]
 lang: en
