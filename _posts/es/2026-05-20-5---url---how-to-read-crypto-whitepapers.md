@@ -3,7 +3,7 @@ layout: post
 title: "Cómo analizar un Whitepaper: Guía para evitar estafas"
 description: "Aprende a evaluar whitepapers cripto como un profesional. Detecta estafas, identifica proyectos sólidos y encuentra las próximas gemas del mercado."
 categories: ['why', 'es']
-tags: [#Criptomonedas, #Inversiones, #Whitepaper, #Blockchain, #SeguridadFinanciera]
+tags: [Criptomonedas, Inversiones, Whitepaper, Blockchain, SeguridadFinanciera]
 lang: es
 ---
 
