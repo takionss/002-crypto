@@ -46,11 +46,11 @@ header_pages:
 # [추가된 부분] 언어별 사이트 타이틀 및 설명 설정
 # ----------------------------------------------------------------
 titles:
-  ko: "Smiles Life - 가상자산 인사이트"
-  en: "Smiles Life - Virtual Asset Insights"
-  ja: "Smiles Life - 暗号資産インサイト"
-  zh-TW: "Smiles Life - 虚拟资产洞察"
-  es: "Smiles Life - Perspectivas de Activos Virtuales"
+  ko: "가상자산 인사이트"
+  en: "Virtual Asset Insights"
+  ja: "暗号資産インサイト"
+  zh-TW: "虚拟资产洞察"
+  es: "Perspectivas de Activos Virtuales"
 
 descriptions:
   ko: "Smiles Life의 비트코인, 이더리움 등 블록체인 글로벌 트랜드"
